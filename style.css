@@ -11,10 +11,14 @@ body{
 
 heade{
     background-color: rgb(228, 231, 42);
-    color: rgb(197, 209, 29);
+    color: rgb(246, 247, 231);
     height: 6em;
 }
 
 header h1{
     text-align: center;
+}
+
+img{
+
 }
