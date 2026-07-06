@@ -11,5 +11,10 @@ body{
 
 heade{
     background-color: rgb(1, 4, 7);
-    height: 4em;
+    color: aquamarine;
+    height: 6em;
+}
+
+header h1{
+    text-align: center;
 }
