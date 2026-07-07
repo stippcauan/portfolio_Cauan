@@ -34,4 +34,6 @@ img{
 
 main{
     background-color: rgb(139, 224, 27);
+    color: azure;
+    flex: 1;
 }
