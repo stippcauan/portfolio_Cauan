@@ -37,3 +37,9 @@ main{
     color: azure;
     flex: 1;
 }
+
+section{
+    margin: 10%;
+    display: flex;
+    
+}
