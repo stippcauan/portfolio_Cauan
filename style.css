@@ -26,8 +26,10 @@ header h1{
 }
 
 img{
-    width: 25%;
     border-radius: 18px;
+
+    max-width: 100%;
+    height: auto;
 }
 
 main{
